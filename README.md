@@ -102,11 +102,15 @@ Contact: heidarzadeh.roozbeh [at] gmail [dot] com
 
 ## Citation
 
-If you use this pipeline in your work, please cite it as:
+If you use this code or parts of the pipeline, please cite BOTH:
 
-Heidarzadehpilehrood R. (2025). heidarzadehroozbeh-cmyk/pcos-wgcna-biomedicines-2023:
-Second release – PCOS WGCNA pipeline (Zenodo DOI) (v1.0.1) [Code]. Zenodo.
-https://doi.org/10.5281/zenodo.17778157
+1. Heidarzadehpilehrood R, Pirhoushiaran M, Osman MB, Hamid HA, Ling KH.  
+   *Weighted gene co-expression network analysis (WGCNA) discovered novel long non-coding RNAs for polycystic ovary syndrome.*  
+   Biomedicines. 2023;11(2):518.
+
+2. Heidarzadehpilehrood R. (2025).  
+   *heidarzadehroozbeh-cmyk/pcos-wgcna-biomedicines-2023: Second release – PCOS WGCNA pipeline (v1.0.1)* [Code]. Zenodo.  
+   https://doi.org/10.5281/zenodo.17778157
 
 Code in this repository is released under the MIT License. The underlying expression
 data (GSE48301) remain subject to the original GEO / authors’ terms of use.
