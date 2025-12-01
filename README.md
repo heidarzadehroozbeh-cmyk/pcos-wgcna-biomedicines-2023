@@ -85,6 +85,12 @@ All required packages are loaded (and installed if missing) by `scripts/01_load_
 
 ---
 
+   ## License
+Code in this repository is released under the MIT License.  
+The underlying expression data (GSE48301) remain subject to the original GEO / authors’ terms of use.
+
+---
+
 ## Author
 
 **Dr Roozbeh Heidarzadehpilehrood**  
